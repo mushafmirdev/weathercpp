@@ -101,7 +101,7 @@ int main()
 			}
 			else
 			{
-				cout<<"invalid data!"<<endl;
+				cout<<"Please Enter a Correct Number!"<<endl;
 			}
 	}
 	else
