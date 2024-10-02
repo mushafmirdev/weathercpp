@@ -19,7 +19,7 @@ int main()
 			}
 			else if(str=="no")
 			{
-				cout<<"ok fine"<<endl;
+				cout<<"ok you may go"<<endl;
 			}
 			else
 			{
