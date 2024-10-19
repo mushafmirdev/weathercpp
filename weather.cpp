@@ -106,7 +106,7 @@ int main()
 	}
 	else
 	{
-		cout<<"invalid data";
+		cout<<"Enter a Valid data";
 	}
 	return 0;
 }
